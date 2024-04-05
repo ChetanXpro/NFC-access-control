@@ -3,7 +3,7 @@
 A React Native application designed for efficient access control using NFC technology. It authenticates NFC tags against a predefined list, granting or denying access based on authorization status.
 
 
-## Access Granted screenshot (App UI is very basic )
+## Access Granted (App UI is very basic )
 
 <img src="https://github.com/ChetanXpro/NFC-access-control/assets/107798155/3a97ff14-2ff9-4a9c-9e38-5435ec7b041c" width="300">
 
